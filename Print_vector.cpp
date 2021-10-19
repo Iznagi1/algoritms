@@ -4,5 +4,5 @@ void print(vector <int> &a)
     {
         cout << *it << " ";
     }
-    cout << endl;
+    cout << "\n";
 }
